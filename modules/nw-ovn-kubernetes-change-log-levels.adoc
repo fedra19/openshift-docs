@@ -6,7 +6,7 @@
 [id="nw-ovn-kubernetes-change-log-levels_{context}"]
 = Changing the OVN-Kubernetes log levels
 
-The default log level for OVN-Kubernetes is 2. To debug OVN-Kubernetes set the log level to 5.
+The default log level for OVN-Kubernetes is 4. To debug OVN-Kubernetes set the log level to 5.
 Follow this procedure to increase the log level of the OVN-Kubernetes to help you debug an issue.
 
 .Prerequisites
